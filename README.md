@@ -39,7 +39,7 @@ Designed and implemented a microcontroller-based voltage stabilizer to regulate 
 
 ## 📫 Let's Connect
 
-* **GitHub:** [https://github.com/Anupama9283/Anupama9283/blob/a20a3e13cbbd3ebd6acaab735b0bc9656470fbf4/README.md]
+* **GitHub:** [https://github.com/Anupama9283/Anupama9283/blob/9b3e50a85a60e2ca398001044c0535cee7bff9ac/README.md]
 * **LinkedIn:**[https://www.linkedin.com/in/anupama-rejy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 * **Email:** [anupamarejy3@gmail.com]
 
