@@ -33,7 +33,7 @@ I’m a detail-oriented and motivated engineering graduate with a growing passio
 ### ⚡ Voltage Stabilizer System
 
 Designed and implemented a microcontroller-based voltage stabilizer to regulate voltage fluctuations 
-[🔗 View Project Repo]https://github.com/Anupama9283/Voltage-Stabilizer/blob/c5b1b2e4a4fde580d4da08bd12a62cb3b19f65d1/README.md)
+[🔗 View Project Repo]https://github.com/Anupama9283/Voltage-Stabilizer/blob/2db3f3aea85ddcb7b178a6e94f8c0952c1748ec8/README.md
 
 ---
 
