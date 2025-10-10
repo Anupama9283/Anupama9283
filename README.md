@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Anupama Rejy
+#  Hi, I'm Anupama Rejy
 
-🎓 Electrical and Electronics Engineering Graduate
+ Electrical and Electronics Engineering Graduate
 
-📊 CGPA: 8.1 | 📚 Zero Academic Backlogs
+ CGPA: 7.98 |  Zero Academic Backlogs
 
-💻 Exploring the software field with a strong foundation in engineering
+ Exploring the software field with a strong foundation in engineering
 
-🔧 Currently learning: HTML, CSS, SQL
+ Currently learning: HTML, CSS, SQL
 
-⚡️ Project: Voltage Stabilizer Implementation
+ Project: Voltage Stabilizer Implementation
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a detail-oriented and motivated engineering graduate with a growing passion for software development. My background in Electrical and Electronics Engineering has equipped me with a problem-solving mindset, and I’m now building skills to transition into the tech/software industry.
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 
 * **Languages:** SQL
 * **Web:** HTML, CSS (in progress)
@@ -28,16 +28,16 @@ I’m a detail-oriented and motivated engineering graduate with a growing passio
 
 ---
 
-## 🔬 Academic Project
+##  Academic Project
 
-### ⚡ Voltage Stabilizer System
+###  Voltage Stabilizer System
 
 Designed and implemented a microcontroller-based voltage stabilizer to regulate voltage fluctuations 
 [🔗 View Project Repo]https://github.com/Anupama9283/Voltage-Stabilizer/blob/2db3f3aea85ddcb7b178a6e94f8c0952c1748ec8/README.md
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 * **GitHub:** [https://github.com/Anupama9283/Anupama9283/blob/9b3e50a85a60e2ca398001044c0535cee7bff9ac/README.md]
 * **LinkedIn:**[https://www.linkedin.com/in/anupama-rejy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
