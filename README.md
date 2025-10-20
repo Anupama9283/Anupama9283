@@ -6,7 +6,7 @@
 
  Exploring the software field with a strong foundation in engineering
 
- Currently learning: HTML, CSS, SQL
+ Knowledge in HTML, CSS,JS, SQL
 
  Project: Voltage Stabilizer Implementation
 
