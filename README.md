@@ -21,6 +21,7 @@ projects, including strong exposure to Dubai Civil Defence (DCD) approvals and i
 expertise in project planning, execution, procurement, estimation coordination, CRM handling, AMC renewals,
 rectification works, and client coordination. Skilled in managing end-to-end project execution while ensuring
 regulatory compliance, timely delivery, and cost control.
+
 ---
 
 ##  Skills & Tools
