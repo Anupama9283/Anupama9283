@@ -2,7 +2,7 @@
 
  Electrical and Electronics Engineering Graduate
 
- CGPA: 7.98 |  Zero Academic Backlogs
+ Minor Degree:Computer Science Engineering
 
  Project Engineer
 
