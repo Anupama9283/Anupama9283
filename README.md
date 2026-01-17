@@ -8,7 +8,7 @@
 
  Fire and Safety System|ELV Ssystem
  
- Knowledge in HTML, CSS,JS, SQL
+ HTML, CSS,JS, SQL
 
  Project: Voltage Stabilizer Implementation
 
