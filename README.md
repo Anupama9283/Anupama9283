@@ -4,8 +4,10 @@
 
  CGPA: 7.98 |  Zero Academic Backlogs
 
- Exploring the software field with a strong foundation in engineering
+ Project Engineer
 
+ Fire and Safety System|ELV Ssystem
+ 
  Knowledge in HTML, CSS,JS, SQL
 
  Project: Voltage Stabilizer Implementation
@@ -14,7 +16,7 @@
 
 ##  About Me
 
-I’m a detail-oriented and motivated engineering graduate with a growing passion for software development. My background in Electrical and Electronics Engineering has equipped me with a problem-solving mindset, and I’m now building skills to transition into the tech/software industry.
+Project Engineer with hands-on experience in Fire Fighting and Fire Alarm Systems for Dubai-based projects, including strong exposure to Dubai Civil Defence (DCD) approvals and inspections. Proven expertise in project planning, execution, procurement, estimation coordination, CRM handling, AMC renewals, rectification works, and client coordination. Skilled in managing end-to-end project execution while ensuring regulatory compliance, timely delivery, and cost control. Ready to relocate and work across Dubai.
 
 ---
 
